@@ -168,12 +168,12 @@ namespace WolfCatchesEggs
 
         private void pictureBox1_Click(object sender, EventArgs e)
         {
-            // Добавьте код, если необходимо обработать событие щелчка на pictureBox1.
+            
         }
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            // Добавьте код, если необходимо выполнить действия при загрузке формы.
+            
         }
     }
 }
