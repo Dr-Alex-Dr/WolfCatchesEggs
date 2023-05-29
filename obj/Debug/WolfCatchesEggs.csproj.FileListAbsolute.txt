@@ -1,0 +1,8 @@
+C:\Users\DNS\OneDrive - УрФУ\курс по С#\игра\WindowsFormsApp1\obj\Debug\WolfCatchesEggs.csproj.AssemblyReference.cache
+C:\Users\DNS\OneDrive - УрФУ\курс по С#\игра\WindowsFormsApp1\obj\Debug\WolfCatchesEggs.csproj.SuggestedBindingRedirects.cache
+C:\Users\DNS\OneDrive - УрФУ\курс по С#\игра\WindowsFormsApp1\obj\Debug\WolfCatchesEggs.Form1.resources
+C:\Users\DNS\OneDrive - УрФУ\курс по С#\игра\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\DNS\OneDrive - УрФУ\курс по С#\игра\WindowsFormsApp1\obj\Debug\WolfCatchesEggs.csproj.GenerateResource.cache
+C:\Users\DNS\OneDrive - УрФУ\курс по С#\игра\WindowsFormsApp1\obj\Debug\WolfCatchesEggs.csproj.CoreCompileInputs.cache
+C:\Users\DNS\OneDrive - УрФУ\курс по С#\игра\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\DNS\OneDrive - УрФУ\курс по С#\игра\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
