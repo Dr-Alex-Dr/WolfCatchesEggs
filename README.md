@@ -1,3 +1,5 @@
+можно запустить exe файл WolfCatchesEggs\bin\Debug\WindowsFormsApp1.exe
+
 ***«Волк ловит яйца»***
 
 
