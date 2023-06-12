@@ -36,5 +36,7 @@
 
 ![Жизнь (1)](https://github.com/Dr-Alex-Dr/WolfCatchesEggs/assets/60229705/f3aac3e8-07df-46fb-b5ac-2d851cbfbd4b)
 
+Все поставленные задачи и цели были выполнены
+
 
 
