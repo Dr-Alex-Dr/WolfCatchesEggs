@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace WolfCatchesEggs.Properties
+namespace WindowsFormsApp1.Properties
 {
 
 

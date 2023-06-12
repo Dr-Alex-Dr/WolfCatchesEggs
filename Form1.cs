@@ -8,9 +8,9 @@ using System.Reflection.Emit;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using WolfCatchesEggs.Properties;
+using WindowsFormsApp1.Properties;
 
-namespace WolfCatchesEggs
+namespace WindowsFormsApp1
 {
     /// <summary>
     /// Основная форма приложения.

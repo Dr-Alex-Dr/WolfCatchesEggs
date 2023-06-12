@@ -4,9 +4,9 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using WolfCatchesEggs.Properties;
+using WindowsFormsApp1.Properties;
 
-namespace WolfCatchesEggs
+namespace WindowsFormsApp1
 {
     /// <summary>
     /// Класс, представляющий волка.

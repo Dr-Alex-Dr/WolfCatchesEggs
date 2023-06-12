@@ -1,4 +1,4 @@
-﻿namespace WolfCatchesEggs
+﻿namespace WindowsFormsApp1
 {
     partial class Form1
     {
@@ -42,8 +42,8 @@
             // 
             // pictureBox1
             // 
-            this.pictureBox1.BackgroundImage = global::WolfCatchesEggs.Properties.Resources.Static;
-            this.pictureBox1.Image = global::WolfCatchesEggs.Properties.Resources.back;
+            this.pictureBox1.BackgroundImage = global::WindowsFormsApp1.Properties.Resources.Static;
+            this.pictureBox1.Image = global::WindowsFormsApp1.Properties.Resources.back;
             this.pictureBox1.Location = new System.Drawing.Point(-3, -1);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(1240, 800);
